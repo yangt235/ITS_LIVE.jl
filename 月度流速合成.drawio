@@ -1,154 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-09-04T13:40:38.927Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="8mmZteBzDdSWKTFOJQu2" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-10T07:09:22.268Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="UyoGnmG1bO9eWTIPDZs9" version="21.7.2" type="github">
   <diagram name="第 1 页" id="xR9Ap1yNc7HMdD3Wd91Z">
-    <mxGraphModel dx="659" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="0.5" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1122" dy="2633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="0.5" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-210" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="91" y="40" width="1520" height="1480" as="geometry" />
-        </mxCell>
-        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-208" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=none;dashed=1;strokeWidth=1.5;" parent="h8BnkVaSkNDdI-Pgu3pd-210" vertex="1">
-          <mxGeometry x="5" y="890" width="1510" height="500" as="geometry" />
-        </mxCell>
-        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-207" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=none;dashed=1;strokeWidth=1.5;" parent="h8BnkVaSkNDdI-Pgu3pd-210" vertex="1">
-          <mxGeometry x="4" width="750" height="880" as="geometry" />
-        </mxCell>
-        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-206" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=none;dashed=1;strokeWidth=1.5;" parent="h8BnkVaSkNDdI-Pgu3pd-210" vertex="1">
-          <mxGeometry x="766" width="750" height="880" as="geometry" />
-        </mxCell>
-        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-209" value="&lt;div style=&quot;line-height: 1.3; text-align: left; vertical-align: top; color: rgb(0, 0, 0); font-style: normal;&quot;&gt;&lt;p style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot; face=&quot;Arial&quot;&gt;Monthly ice velocity mosaic&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;strokeColor=none;" parent="h8BnkVaSkNDdI-Pgu3pd-210" vertex="1">
-          <mxGeometry x="44.77000000000001" y="-7" width="447.1" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-216" value="&lt;div style=&quot;line-height: 1.3; text-align: left; vertical-align: top; color: rgb(0, 0, 0); font-style: normal;&quot;&gt;&lt;div style=&quot;line-height: 1.3; vertical-align: top;&quot;&gt;&lt;p style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot; face=&quot;Arial&quot;&gt;Winter ice velocity of Byrd Glacier&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;strokeColor=none;" parent="h8BnkVaSkNDdI-Pgu3pd-210" vertex="1">
-          <mxGeometry x="798" y="-7" width="522" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-217" value="&lt;div style=&quot;line-height: 1.3; text-align: left; vertical-align: top; color: rgb(0, 0, 0); font-style: normal;&quot;&gt;&lt;div style=&quot;line-height: 1.3; vertical-align: top;&quot;&gt;&lt;p style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot; face=&quot;Arial&quot; style=&quot;font-size: 30px;&quot;&gt;Detection of seasonal variability&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;strokeColor=none;" parent="h8BnkVaSkNDdI-Pgu3pd-210" vertex="1">
-          <mxGeometry x="44.77" y="887" width="495.23" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-232" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot; face=&quot;Arial&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot; color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;&quot;&gt;Distribution of velocity variations along flowlinelines&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Fig.4&lt;/font&gt;&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f4b183;rounded=0;strokeColor=none;" parent="h8BnkVaSkNDdI-Pgu3pd-210" vertex="1">
-          <mxGeometry x="103.44" y="1270" width="318.12" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-254" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="h8BnkVaSkNDdI-Pgu3pd-210" source="h8BnkVaSkNDdI-Pgu3pd-235" target="h8BnkVaSkNDdI-Pgu3pd-228" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="360" y="950" />
-              <mxPoint x="360" y="1130" />
-              <mxPoint x="263" y="1130" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-262" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="h8BnkVaSkNDdI-Pgu3pd-210" source="h8BnkVaSkNDdI-Pgu3pd-235" target="h8BnkVaSkNDdI-Pgu3pd-250" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="760" y="1130" />
-              <mxPoint x="636" y="1130" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-266" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="h8BnkVaSkNDdI-Pgu3pd-210" source="h8BnkVaSkNDdI-Pgu3pd-235" target="h8BnkVaSkNDdI-Pgu3pd-264" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-235" value="&lt;font color=&quot;#ffffff&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot; face=&quot;Arial&quot; style=&quot;font-size: 22px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Byrd monthly&lt;br&gt;&amp;nbsp;ice velocity&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#5aa9e6;strokeColor=none;" parent="h8BnkVaSkNDdI-Pgu3pd-210" vertex="1">
-          <mxGeometry x="645" y="909" width="230" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-228" value="&lt;font color=&quot;#ffffff&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot; face=&quot;Arial&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Ice velocity sampling &lt;br&gt;with a 5x5 window&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#f4b183;rounded=0;strokeColor=none;" parent="h8BnkVaSkNDdI-Pgu3pd-210" vertex="1">
-          <mxGeometry x="135" y="1160" width="255" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-229" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="h8BnkVaSkNDdI-Pgu3pd-210" target="h8BnkVaSkNDdI-Pgu3pd-228" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="166.42857142857156" y="1110" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="166" y="1130" />
-              <mxPoint x="263" y="1130" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-233" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="h8BnkVaSkNDdI-Pgu3pd-210" source="h8BnkVaSkNDdI-Pgu3pd-228" target="h8BnkVaSkNDdI-Pgu3pd-232" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-253" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="h8BnkVaSkNDdI-Pgu3pd-210" source="h8BnkVaSkNDdI-Pgu3pd-250" target="h8BnkVaSkNDdI-Pgu3pd-252" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-250" value="&lt;font size=&quot;1&quot; color=&quot;#ffffff&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;Subtracting autumn from spring&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#f4b183;strokeColor=none;rounded=0;" parent="h8BnkVaSkNDdI-Pgu3pd-210" vertex="1">
-          <mxGeometry x="530" y="1158" width="212.5" height="72" as="geometry" />
-        </mxCell>
-        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-296" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="h8BnkVaSkNDdI-Pgu3pd-210" source="h8BnkVaSkNDdI-Pgu3pd-252" target="h8BnkVaSkNDdI-Pgu3pd-295" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-252" value="&lt;font color=&quot;#ffffff&quot; size=&quot;1&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot; face=&quot;Arial&quot; style=&quot;&quot;&gt;&lt;div style=&quot;line-height: 1.3; vertical-align: top; font-size: 20px;&quot;&gt;&lt;p style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;Spatial patterns of summer&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;seasonal variations&amp;nbsp; &amp;nbsp;&lt;/b&gt;&lt;b style=&quot;background-color: initial; border-color: var(--border-color); color: rgb(0, 0, 0);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 20px;&quot; color=&quot;#ffffff&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 20px;&quot;&gt;Fig.5&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f4b183;rounded=0;strokeColor=none;align=center;" parent="h8BnkVaSkNDdI-Pgu3pd-210" vertex="1">
-          <mxGeometry x="477.19" y="1270" width="318.12" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-257" value="" style="group;strokeColor=none;" parent="h8BnkVaSkNDdI-Pgu3pd-210" vertex="1" connectable="0">
-          <mxGeometry x="50" y="990" width="226" height="118" as="geometry" />
-        </mxCell>
-        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-255" value="&lt;b style=&quot;border-color: var(--border-color); font-family: Arial;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 22px;&quot;&gt;Byrd flowline&lt;/font&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;align=center;strokeColor=#FFB570;dashed=1;strokeWidth=1.5;" parent="h8BnkVaSkNDdI-Pgu3pd-257" vertex="1">
-          <mxGeometry width="226" height="118" as="geometry" />
-        </mxCell>
-        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-256" value="&lt;b style=&quot;border-color: var(--border-color); font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 18px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot; face=&quot;Arial&quot;&gt;Reference velocity&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/font&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 18px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot; face=&quot;Arial&quot;&gt;（&lt;/font&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 18px;&quot;&gt;Rignot et al., 2017&lt;/font&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 18px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot; face=&quot;Arial&quot;&gt;）&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#ffe6cc;strokeColor=#d79b00;labelBackgroundColor=none;" parent="h8BnkVaSkNDdI-Pgu3pd-257" vertex="1">
-          <mxGeometry x="16.5" y="40" width="193" height="64" as="geometry" />
-        </mxCell>
-        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-258" value="" style="group;strokeColor=none;" parent="h8BnkVaSkNDdI-Pgu3pd-210" vertex="1" connectable="0">
-          <mxGeometry x="380" y="990" width="280" height="118" as="geometry" />
-        </mxCell>
-        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-263" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="h8BnkVaSkNDdI-Pgu3pd-258" source="h8BnkVaSkNDdI-Pgu3pd-259" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="380" y="59" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-259" value="&lt;b style=&quot;border-color: var(--border-color); font-family: Arial;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 22px;&quot;&gt;Detrend&lt;/font&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;align=center;strokeColor=#FFB570;dashed=1;strokeWidth=1.5;" parent="h8BnkVaSkNDdI-Pgu3pd-258" vertex="1">
-          <mxGeometry width="250" height="118" as="geometry" />
-        </mxCell>
-        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-260" value="&lt;b style=&quot;border-color: var(--border-color); font-family: Arial;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot; color=&quot;#000000&quot;&gt;Removing interannual trends&lt;/font&gt;&lt;/b&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#ffe6cc;strokeColor=#d79b00;labelBackgroundColor=none;" parent="h8BnkVaSkNDdI-Pgu3pd-258" vertex="1">
-          <mxGeometry x="20.44" y="40" width="209.56" height="64" as="geometry" />
-        </mxCell>
-        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-264" value="&lt;font size=&quot;1&quot; color=&quot;#ffffff&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;Detrend and normalized&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#f4b183;strokeColor=none;rounded=0;" parent="h8BnkVaSkNDdI-Pgu3pd-210" vertex="1">
-          <mxGeometry x="1183" y="1000" width="230" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-297" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="h8BnkVaSkNDdI-Pgu3pd-210" source="h8BnkVaSkNDdI-Pgu3pd-295" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="965" y="940" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-311" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="h8BnkVaSkNDdI-Pgu3pd-210" source="h8BnkVaSkNDdI-Pgu3pd-299" target="h8BnkVaSkNDdI-Pgu3pd-304" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-299" value="&lt;b style=&quot;border-color: var(--border-color); font-family: Arial;&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;border-color: var(--border-color); font-size: 20px;&quot;&gt;Decompose via principal component analysis&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#f4b183;strokeColor=none;rounded=0;" parent="h8BnkVaSkNDdI-Pgu3pd-210" vertex="1">
-          <mxGeometry x="1155.5" y="1169" width="285" height="82" as="geometry" />
-        </mxCell>
-        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-300" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="h8BnkVaSkNDdI-Pgu3pd-210" source="h8BnkVaSkNDdI-Pgu3pd-264" target="h8BnkVaSkNDdI-Pgu3pd-299" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-303" value="" style="group;strokeColor=none;strokeWidth=1.2;" parent="h8BnkVaSkNDdI-Pgu3pd-210" vertex="1" connectable="0">
-          <mxGeometry x="840" y="987" width="250" height="118" as="geometry" />
-        </mxCell>
-        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-295" value="&lt;b style=&quot;border-color: var(--border-color); font-family: Arial;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 22px;&quot;&gt;Region division&lt;/font&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;align=center;strokeColor=#FFB570;dashed=1;strokeWidth=1.5;" parent="h8BnkVaSkNDdI-Pgu3pd-303" vertex="1">
-          <mxGeometry width="250" height="118" as="geometry" />
-        </mxCell>
-        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-298" value="&lt;font size=&quot;1&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot; face=&quot;Arial&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;Based on seasonal characteristics&lt;/b&gt;&lt;/font&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#ffe6cc;strokeColor=#d79b00;labelBackgroundColor=none;" parent="h8BnkVaSkNDdI-Pgu3pd-303" vertex="1">
-          <mxGeometry x="30.11" y="43" width="189.78" height="64" as="geometry" />
-        </mxCell>
-        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-304" value="&lt;font color=&quot;#ffffff&quot; size=&quot;1&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot; face=&quot;Arial&quot; style=&quot;&quot;&gt;&lt;div style=&quot;line-height: 1.3; vertical-align: top; font-size: 20px;&quot;&gt;&lt;p style=&quot;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;EOFs and PCs&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;background-color: initial; border-color: var(--border-color); color: rgb(0, 0, 0);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#ffffff&quot;&gt;Fig.6&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f4b183;rounded=0;strokeColor=none;align=center;" parent="h8BnkVaSkNDdI-Pgu3pd-210" vertex="1">
-          <mxGeometry x="1190.97" y="1286" width="214.06" height="79" as="geometry" />
-        </mxCell>
-        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-309" value="" style="group;strokeColor=none;" parent="h8BnkVaSkNDdI-Pgu3pd-210" vertex="1" connectable="0">
-          <mxGeometry x="850" y="1252" width="250" height="118" as="geometry" />
-        </mxCell>
-        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-310" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="h8BnkVaSkNDdI-Pgu3pd-309" source="h8BnkVaSkNDdI-Pgu3pd-307" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="450" y="-132" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="125" y="-132" />
-              <mxPoint x="450" y="-132" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-307" value="&lt;b style=&quot;border-color: var(--border-color); font-family: Arial;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 22px;&quot;&gt;Stacking&lt;/font&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;align=center;strokeColor=#FFB570;dashed=1;strokeWidth=1.5;" parent="h8BnkVaSkNDdI-Pgu3pd-309" vertex="1">
-          <mxGeometry width="250" height="118" as="geometry" />
-        </mxCell>
-        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-308" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;Stacking in Chronological Order&lt;/b&gt;&lt;/font&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#ffe6cc;strokeColor=#d79b00;labelBackgroundColor=none;" parent="h8BnkVaSkNDdI-Pgu3pd-309" vertex="1">
-          <mxGeometry x="10.11" y="40" width="229.78" height="64" as="geometry" />
-        </mxCell>
-        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-1" value="&lt;font size=&quot;1&quot; color=&quot;#ffffff&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot; face=&quot;Arial&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;ITS_LIVE 120m ice velocity image pairs&lt;/b&gt;&lt;/font&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#16a690;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
+        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-1" value="&lt;font size=&quot;1&quot; color=&quot;#ffffff&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot; face=&quot;Arial&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;ITS_LIVE 120m ice velocity image pairs&lt;/b&gt;&lt;/font&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#16a690;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="339.4" y="106" width="196" height="64" as="geometry" />
         </mxCell>
         <mxCell id="h8BnkVaSkNDdI-Pgu3pd-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="h8BnkVaSkNDdI-Pgu3pd-1" target="h8BnkVaSkNDdI-Pgu3pd-11" edge="1">
@@ -180,13 +36,13 @@
         <mxCell id="h8BnkVaSkNDdI-Pgu3pd-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="h8BnkVaSkNDdI-Pgu3pd-11" target="h8BnkVaSkNDdI-Pgu3pd-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-11" value="&lt;p style=&quot;border-color: var(--border-color); margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot; face=&quot;Arial&quot; style=&quot;font-size: 18px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot; face=&quot;Arial&quot; style=&quot;font-size: 18px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;Culling（T=1.5）&lt;/b&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#16a690;strokeColor=none;align=center;" parent="1" vertex="1">
+        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-11" value="&lt;p style=&quot;border-color: var(--border-color); margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 20px;&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot; face=&quot;Arial&quot; style=&quot;font-size: 20px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 20px;&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot; face=&quot;Arial&quot; style=&quot;font-size: 20px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;Culling（T=1.5）&lt;/b&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#16a690;strokeColor=none;align=center;" parent="1" vertex="1">
           <mxGeometry x="344.65" y="392" width="185.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="h8BnkVaSkNDdI-Pgu3pd-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="h8BnkVaSkNDdI-Pgu3pd-20" target="h8BnkVaSkNDdI-Pgu3pd-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-20" value="&lt;span style=&quot;border-color: var(--border-color); font-size: 18px;&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot; face=&quot;Arial&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Geolocation bias correction&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.16177957532861437;fillColor=#16a690;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-20" value="&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;&quot;&gt;&lt;font style=&quot;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot; face=&quot;Arial&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Geolocation bias correction&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.16177957532861437;fillColor=#16a690;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="357.28" y="497.5" width="160.25" height="69.5" as="geometry" />
         </mxCell>
         <mxCell id="h8BnkVaSkNDdI-Pgu3pd-21" value="" style="group;strokeWidth=2;" parent="1" vertex="1" connectable="0">
@@ -206,7 +62,7 @@
         <mxCell id="h8BnkVaSkNDdI-Pgu3pd-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="h8BnkVaSkNDdI-Pgu3pd-30" target="h8BnkVaSkNDdI-Pgu3pd-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-30" value="&lt;p style=&quot;border-color: var(--border-color); margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;font size=&quot;1&quot; style=&quot;&quot; color=&quot;#ffffff&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot; face=&quot;Arial&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;Eliminate spatially coherent errors(T=1)&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/p&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#16a690;strokeColor=none;align=center;" parent="1" vertex="1">
+        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-30" value="&lt;p style=&quot;border-color: var(--border-color); margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;font size=&quot;1&quot; style=&quot;&quot; color=&quot;#ffffff&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot; face=&quot;Arial&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;Eliminate spatially coherent errors(T=1)&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/p&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#16a690;strokeColor=none;align=center;" parent="1" vertex="1">
           <mxGeometry x="329.65" y="620" width="215.5" height="64" as="geometry" />
         </mxCell>
         <mxCell id="h8BnkVaSkNDdI-Pgu3pd-236" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="h8BnkVaSkNDdI-Pgu3pd-37" target="h8BnkVaSkNDdI-Pgu3pd-235" edge="1">
@@ -217,8 +73,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-37" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot; face=&quot;Arial&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;p style=&quot;border-color: var(--border-color); margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot; face=&quot;Arial&quot; style=&quot;border-color: var(--border-color); font-size: 18px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot; face=&quot;Arial&quot; style=&quot;border-color: var(--border-color); font-size: 18px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;Monthly ice velocity and validation results&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot; face=&quot;Arial&quot; style=&quot;border-color: var(--border-color);&quot; color=&quot;#ffffff&quot;&gt;&lt;b style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Fig. 3&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#16a690;" parent="1" vertex="1">
-          <mxGeometry x="333.65" y="780" width="207.5" height="86" as="geometry" />
+        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-37" value="&lt;font style=&quot;font-size: 20px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot; face=&quot;Arial&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;p style=&quot;border-color: var(--border-color); margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 20px;&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot; face=&quot;Arial&quot; style=&quot;border-color: var(--border-color); font-size: 20px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 20px;&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot; face=&quot;Arial&quot; style=&quot;border-color: var(--border-color); font-size: 20px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;Monthly ice velocity and validation results&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot; face=&quot;Arial&quot; style=&quot;border-color: var(--border-color);&quot; color=&quot;#ffffff&quot;&gt;&lt;b style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Fig. 3&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 20px;&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#16a690;" parent="1" vertex="1">
+          <mxGeometry x="327" y="780" width="220" height="86" as="geometry" />
         </mxCell>
         <mxCell id="h8BnkVaSkNDdI-Pgu3pd-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="h8BnkVaSkNDdI-Pgu3pd-84" target="h8BnkVaSkNDdI-Pgu3pd-94" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -248,7 +104,7 @@
         <mxCell id="h8BnkVaSkNDdI-Pgu3pd-92" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot; face=&quot;Arial&quot;&gt;DEM&lt;br&gt;(Howat et al., 2022)&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="h8BnkVaSkNDdI-Pgu3pd-87" vertex="1">
           <mxGeometry x="16.5" y="64" width="200" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-94" value="&lt;p style=&quot;border-color: var(--border-color); margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot; face=&quot;Arial&quot; style=&quot;font-size: 18px;&quot; color=&quot;#ffffff&quot;&gt;Offset tracking&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#0096c7;strokeColor=none;align=center;" parent="1" vertex="1">
+        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-94" value="&lt;p style=&quot;border-color: var(--border-color); margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot; face=&quot;Arial&quot; style=&quot;font-size: 22px;&quot; color=&quot;#ffffff&quot;&gt;Offset tracking&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#0096c7;strokeColor=none;align=center;" parent="1" vertex="1">
           <mxGeometry x="1092.5" y="248" width="204" height="50" as="geometry" />
         </mxCell>
         <mxCell id="h8BnkVaSkNDdI-Pgu3pd-137" value="" style="group;strokeColor=none;strokeWidth=4;" parent="1" vertex="1" connectable="0">
@@ -295,7 +151,7 @@
         <mxCell id="h8BnkVaSkNDdI-Pgu3pd-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="h8BnkVaSkNDdI-Pgu3pd-153" target="h8BnkVaSkNDdI-Pgu3pd-166" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-153" value="&lt;p style=&quot;border-color: var(--border-color); margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot; face=&quot;Arial&quot; size=&quot;3&quot; color=&quot;#ffffff&quot;&gt;&lt;b style=&quot;&quot;&gt;Geocoding and resample&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#0096c7;strokeColor=none;align=center;" parent="1" vertex="1">
+        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-153" value="&lt;p style=&quot;border-color: var(--border-color); margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;font size=&quot;1&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot; face=&quot;Arial&quot; color=&quot;#ffffff&quot;&gt;&lt;b style=&quot;font-size: 22px;&quot;&gt;Geocoding and resample&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#0096c7;strokeColor=none;align=center;" parent="1" vertex="1">
           <mxGeometry x="1096.5" y="475" width="204" height="50" as="geometry" />
         </mxCell>
         <mxCell id="h8BnkVaSkNDdI-Pgu3pd-154" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=58.472222222222214;endSize=8.275;width=30.833333333333336;" parent="1" edge="1">
@@ -313,16 +169,16 @@
         <mxCell id="h8BnkVaSkNDdI-Pgu3pd-160" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="936.5" y="360" width="516" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-146" value="&lt;b style=&quot;font-size: 17px;&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot; face=&quot;Arial&quot; color=&quot;#ffffff&quot; style=&quot;font-size: 17px;&quot;&gt;Precisely &lt;br&gt;co-registering&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0096c7;" parent="h8BnkVaSkNDdI-Pgu3pd-160" vertex="1">
+        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-146" value="&lt;b style=&quot;font-size: 18px;&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot; face=&quot;Arial&quot; color=&quot;#ffffff&quot; style=&quot;font-size: 18px;&quot;&gt;Precisely &lt;br&gt;co-registering&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0096c7;" parent="h8BnkVaSkNDdI-Pgu3pd-160" vertex="1">
           <mxGeometry width="156" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-151" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot; face=&quot;Arial&quot; size=&quot;1&quot; color=&quot;#ffffff&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 17px;&quot;&gt;Initial offset estimation&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0096c7;" parent="h8BnkVaSkNDdI-Pgu3pd-160" vertex="1">
+        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-151" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot; face=&quot;Arial&quot; size=&quot;1&quot; color=&quot;#ffffff&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;Initial offset estimation&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0096c7;" parent="h8BnkVaSkNDdI-Pgu3pd-160" vertex="1">
           <mxGeometry x="180" width="156" height="50" as="geometry" />
         </mxCell>
         <mxCell id="h8BnkVaSkNDdI-Pgu3pd-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="h8BnkVaSkNDdI-Pgu3pd-160" source="h8BnkVaSkNDdI-Pgu3pd-146" target="h8BnkVaSkNDdI-Pgu3pd-151" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-152" value="&lt;font color=&quot;#ffffff&quot; style=&quot;&quot;&gt;&lt;b&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot; face=&quot;Arial&quot; style=&quot;font-size: 17px;&quot;&gt;Refining NCC &lt;br&gt;peak estimation&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0096c7;" parent="h8BnkVaSkNDdI-Pgu3pd-160" vertex="1">
+        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-152" value="&lt;font color=&quot;#ffffff&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot; face=&quot;Arial&quot; style=&quot;font-size: 18px;&quot;&gt;Refining NCC &lt;br&gt;peak estimation&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0096c7;" parent="h8BnkVaSkNDdI-Pgu3pd-160" vertex="1">
           <mxGeometry x="360" width="156" height="50" as="geometry" />
         </mxCell>
         <mxCell id="h8BnkVaSkNDdI-Pgu3pd-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="h8BnkVaSkNDdI-Pgu3pd-160" source="h8BnkVaSkNDdI-Pgu3pd-151" target="h8BnkVaSkNDdI-Pgu3pd-152" edge="1">
@@ -334,7 +190,7 @@
         <mxCell id="h8BnkVaSkNDdI-Pgu3pd-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="h8BnkVaSkNDdI-Pgu3pd-166" target="h8BnkVaSkNDdI-Pgu3pd-184" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-166" value="&lt;span style=&quot;border-color: var(--border-color); font-size: 18px;&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot; face=&quot;Arial&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Geolocation bias correction&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.16177957532861437;fillColor=#0096c7;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-166" value="&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;&quot;&gt;&lt;font style=&quot;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot; face=&quot;Arial&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;Geolocation bias correction&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.16177957532861437;fillColor=#0096c7;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="1118.3700000000001" y="577.5" width="160.25" height="69.5" as="geometry" />
         </mxCell>
         <mxCell id="h8BnkVaSkNDdI-Pgu3pd-167" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.038;exitY=0.16;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
@@ -404,7 +260,7 @@
         <mxCell id="h8BnkVaSkNDdI-Pgu3pd-199" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="h8BnkVaSkNDdI-Pgu3pd-184" target="h8BnkVaSkNDdI-Pgu3pd-198" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-184" value="&lt;p style=&quot;border-color: var(--border-color); margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;font size=&quot;1&quot; style=&quot;&quot; color=&quot;#ffffff&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot; face=&quot;Arial&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;Eliminate spatially coherent errors(T=1.5)&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/p&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#0096c7;strokeColor=none;align=center;" parent="1" vertex="1">
+        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-184" value="&lt;p style=&quot;border-color: var(--border-color); margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;font size=&quot;1&quot; style=&quot;&quot; color=&quot;#ffffff&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot; face=&quot;Arial&quot;&gt;&lt;b style=&quot;font-size: 19px;&quot;&gt;Eliminate spatially coherent errors(T=1.5)&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/p&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#0096c7;strokeColor=none;align=center;" parent="1" vertex="1">
           <mxGeometry x="1089.5" y="684" width="219.5" height="64" as="geometry" />
         </mxCell>
         <mxCell id="h8BnkVaSkNDdI-Pgu3pd-187" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="h8BnkVaSkNDdI-Pgu3pd-37" edge="1">
@@ -446,7 +302,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-198" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot; face=&quot;Arial&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;p style=&quot;border-color: var(--border-color); margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot; face=&quot;Arial&quot; style=&quot;border-color: var(--border-color); font-size: 18px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot; face=&quot;Arial&quot; style=&quot;border-color: var(--border-color); font-size: 18px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;Winter ice velocity and validation results&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot; face=&quot;Arial&quot; style=&quot;border-color: var(--border-color);&quot; color=&quot;#ffffff&quot;&gt;&lt;b style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Fig. 3&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#0096c7;" parent="1" vertex="1">
+        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-198" value="&lt;font style=&quot;font-size: 19px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot; face=&quot;Arial&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;p style=&quot;border-color: var(--border-color); margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 19px;&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot; face=&quot;Arial&quot; style=&quot;border-color: var(--border-color); font-size: 19px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 19px;&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot; face=&quot;Arial&quot; style=&quot;border-color: var(--border-color); font-size: 19px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;Winter ice velocity and validation results&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot; face=&quot;Arial&quot; style=&quot;border-color: var(--border-color);&quot; color=&quot;#ffffff&quot;&gt;&lt;b style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Fig. 3&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 19px;&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#0096c7;" parent="1" vertex="1">
           <mxGeometry x="1076.75" y="780" width="245" height="86" as="geometry" />
         </mxCell>
         <mxCell id="h8BnkVaSkNDdI-Pgu3pd-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=-0.011;exitY=0.684;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="h8BnkVaSkNDdI-Pgu3pd-192" edge="1">
@@ -457,6 +313,147 @@
               <mxPoint x="1309" y="760" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-208" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=none;dashed=1;strokeWidth=1.5;" parent="1" vertex="1">
+          <mxGeometry x="96" y="930" width="1510" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-207" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=none;dashed=1;strokeWidth=1.5;" parent="1" vertex="1">
+          <mxGeometry x="95" y="40" width="750" height="880" as="geometry" />
+        </mxCell>
+        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-206" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=none;dashed=1;strokeWidth=1.5;" parent="1" vertex="1">
+          <mxGeometry x="857" y="40" width="750" height="880" as="geometry" />
+        </mxCell>
+        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-209" value="&lt;div style=&quot;line-height: 1.3; text-align: left; vertical-align: top; color: rgb(0, 0, 0); font-style: normal;&quot;&gt;&lt;p style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot; face=&quot;Arial&quot;&gt;Monthly ice velocity mosaic&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="135.77" y="33" width="447.1" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-216" value="&lt;div style=&quot;line-height: 1.3; text-align: left; vertical-align: top; color: rgb(0, 0, 0); font-style: normal;&quot;&gt;&lt;div style=&quot;line-height: 1.3; vertical-align: top;&quot;&gt;&lt;p style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot; face=&quot;Arial&quot;&gt;Winter ice velocity of Byrd Glacier&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="889" y="33" width="522" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-217" value="&lt;div style=&quot;line-height: 1.3; text-align: left; vertical-align: top; color: rgb(0, 0, 0); font-style: normal;&quot;&gt;&lt;div style=&quot;line-height: 1.3; vertical-align: top;&quot;&gt;&lt;p style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot; face=&quot;Arial&quot; style=&quot;font-size: 30px;&quot;&gt;Detection of seasonal variability&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="135.77" y="927" width="495.23" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-232" value="&lt;p style=&quot;line-height: 30%;&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot; face=&quot;Arial&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot; color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;&quot;&gt;Distribution of velocity&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 30%;&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot; face=&quot;Arial&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot; color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;variations along flowlinelines&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 30%;&quot;&gt;&lt;b style=&quot;background-color: initial; font-family: Arial;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Fig.4&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f4b183;rounded=0;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="194.44" y="1310" width="318.12" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-254" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="h8BnkVaSkNDdI-Pgu3pd-235" target="h8BnkVaSkNDdI-Pgu3pd-228" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="451" y="990" />
+              <mxPoint x="451" y="1170" />
+              <mxPoint x="354" y="1170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-262" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="h8BnkVaSkNDdI-Pgu3pd-235" target="h8BnkVaSkNDdI-Pgu3pd-250" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="851" y="1170" />
+              <mxPoint x="727" y="1170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-266" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="h8BnkVaSkNDdI-Pgu3pd-235" target="h8BnkVaSkNDdI-Pgu3pd-264" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-235" value="&lt;font color=&quot;#ffffff&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot; face=&quot;Arial&quot; style=&quot;font-size: 22px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Byrd monthly&lt;br&gt;&amp;nbsp;ice velocity&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#5aa9e6;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="736" y="949" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-228" value="&lt;font color=&quot;#ffffff&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot; face=&quot;Arial&quot; style=&quot;font-size: 22px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Ice velocity sampling &lt;br&gt;with a 5x5 window&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#f4b183;rounded=0;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="226" y="1200" width="255" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-229" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="h8BnkVaSkNDdI-Pgu3pd-228" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="257.42857142857156" y="1150" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="257" y="1170" />
+              <mxPoint x="354" y="1170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-233" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="h8BnkVaSkNDdI-Pgu3pd-228" target="h8BnkVaSkNDdI-Pgu3pd-232" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-253" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="h8BnkVaSkNDdI-Pgu3pd-250" target="h8BnkVaSkNDdI-Pgu3pd-252" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-250" value="&lt;font size=&quot;1&quot; color=&quot;#ffffff&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 22px;&quot;&gt;&amp;nbsp;Autumn minus spring&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#f4b183;strokeColor=none;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="621" y="1198" width="212.5" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-296" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="h8BnkVaSkNDdI-Pgu3pd-252" target="h8BnkVaSkNDdI-Pgu3pd-295" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-252" value="&lt;p style=&quot;line-height: 57%;&quot;&gt;&lt;font color=&quot;#ffffff&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot; face=&quot;Arial&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;/font&gt;&lt;/p&gt;&lt;div style=&quot;line-height: 0%; vertical-align: top; font-size: 20px;&quot;&gt;&lt;p style=&quot;line-height: 0%;&quot;&gt;&lt;font color=&quot;#ffffff&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot; face=&quot;Arial&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Spatial patterns of summer&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 0%;&quot;&gt;&lt;font color=&quot;#ffffff&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot; face=&quot;Arial&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;seasonal variations&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 0%;&quot;&gt;&lt;b style=&quot;font-size: 20px; font-family: Arial; background-color: initial; border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 15px;&quot; color=&quot;#ffffff&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;Fig.5&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f4b183;rounded=0;strokeColor=none;align=center;" parent="1" vertex="1">
+          <mxGeometry x="568.19" y="1310" width="318.12" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-257" value="" style="group;strokeColor=none;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="141" y="1030" width="226" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-255" value="&lt;b style=&quot;border-color: var(--border-color); font-family: Arial;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 22px;&quot;&gt;Byrd flowline&lt;/font&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;align=center;strokeColor=#FFB570;dashed=1;strokeWidth=1.5;" parent="h8BnkVaSkNDdI-Pgu3pd-257" vertex="1">
+          <mxGeometry width="226" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-256" value="&lt;b style=&quot;border-color: var(--border-color); font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 18px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot; face=&quot;Arial&quot;&gt;Reference velocity&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/font&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 18px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot; face=&quot;Arial&quot;&gt;（&lt;/font&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 18px;&quot;&gt;Rignot et al., 2017&lt;/font&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 18px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot; face=&quot;Arial&quot;&gt;）&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#ffe6cc;strokeColor=#d79b00;labelBackgroundColor=none;" parent="h8BnkVaSkNDdI-Pgu3pd-257" vertex="1">
+          <mxGeometry x="16.5" y="40" width="193" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-258" value="" style="group;strokeColor=none;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="471" y="1030" width="280" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-263" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="h8BnkVaSkNDdI-Pgu3pd-258" source="h8BnkVaSkNDdI-Pgu3pd-259" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="59" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-259" value="&lt;b style=&quot;border-color: var(--border-color); font-family: Arial;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 22px;&quot;&gt;Detrend&lt;/font&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;align=center;strokeColor=#FFB570;dashed=1;strokeWidth=1.5;" parent="h8BnkVaSkNDdI-Pgu3pd-258" vertex="1">
+          <mxGeometry width="250" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-260" value="&lt;b style=&quot;border-color: var(--border-color); font-family: Arial;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot; color=&quot;#000000&quot;&gt;Removing interannual trends&lt;/font&gt;&lt;/b&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#ffe6cc;strokeColor=#d79b00;labelBackgroundColor=none;" parent="h8BnkVaSkNDdI-Pgu3pd-258" vertex="1">
+          <mxGeometry x="20.44" y="40" width="209.56" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-264" value="&lt;font size=&quot;1&quot; color=&quot;#ffffff&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 22px;&quot;&gt;Detrend and normalized&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#f4b183;strokeColor=none;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1274" y="1040" width="230" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-297" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="h8BnkVaSkNDdI-Pgu3pd-295" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1056" y="980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-311" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="h8BnkVaSkNDdI-Pgu3pd-299" target="h8BnkVaSkNDdI-Pgu3pd-304" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-299" value="&lt;b style=&quot;border-color: var(--border-color); font-family: Arial;&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;border-color: var(--border-color); font-size: 20px;&quot;&gt;Decompose via principal component analysis&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#f4b183;strokeColor=none;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1270" y="1209" width="240" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-300" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="h8BnkVaSkNDdI-Pgu3pd-264" target="h8BnkVaSkNDdI-Pgu3pd-299" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-303" value="" style="group;strokeColor=none;strokeWidth=1.2;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="931" y="1027" width="250" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-295" value="&lt;b style=&quot;border-color: var(--border-color); font-family: Arial;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 22px;&quot;&gt;Region division&lt;/font&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;align=center;strokeColor=#FFB570;dashed=1;strokeWidth=1.5;" parent="h8BnkVaSkNDdI-Pgu3pd-303" vertex="1">
+          <mxGeometry width="250" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-298" value="&lt;font size=&quot;1&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot; face=&quot;Arial&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;Based on seasonal characteristics&lt;/b&gt;&lt;/font&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#ffe6cc;strokeColor=#d79b00;labelBackgroundColor=none;" parent="h8BnkVaSkNDdI-Pgu3pd-303" vertex="1">
+          <mxGeometry x="30.11" y="43" width="189.78" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-304" value="&lt;font color=&quot;#ffffff&quot; size=&quot;1&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot; face=&quot;Arial&quot; style=&quot;&quot;&gt;&lt;div style=&quot;line-height: 10%; vertical-align: top;&quot;&gt;&lt;p style=&quot;line-height: 10%;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color); background-color: initial; font-size: 22px;&quot;&gt;EOFs and PCs&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 10%;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;background-color: initial; border-color: var(--border-color); color: rgb(0, 0, 0);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 15px;&quot; color=&quot;#ffffff&quot;&gt;Fig.6&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f4b183;rounded=0;strokeColor=none;align=center;" parent="1" vertex="1">
+          <mxGeometry x="1281.97" y="1326" width="214.06" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-309" value="" style="group;strokeColor=none;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="941" y="1292" width="250" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-310" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="h8BnkVaSkNDdI-Pgu3pd-309" source="h8BnkVaSkNDdI-Pgu3pd-307" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="-132" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="125" y="-132" />
+              <mxPoint x="450" y="-132" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-307" value="&lt;b style=&quot;border-color: var(--border-color); font-family: Arial;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 22px;&quot;&gt;Stacking&lt;/font&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;align=center;strokeColor=#FFB570;dashed=1;strokeWidth=1.5;" parent="h8BnkVaSkNDdI-Pgu3pd-309" vertex="1">
+          <mxGeometry width="250" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="h8BnkVaSkNDdI-Pgu3pd-308" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;Stacking in Chronological Order&lt;/b&gt;&lt;/font&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#ffe6cc;strokeColor=#d79b00;labelBackgroundColor=none;" parent="h8BnkVaSkNDdI-Pgu3pd-309" vertex="1">
+          <mxGeometry x="10.11" y="40" width="229.78" height="64" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
